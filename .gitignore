@@ -1,0 +1,4 @@
+node_modules
+Dockerfile
+key.json
+.env
