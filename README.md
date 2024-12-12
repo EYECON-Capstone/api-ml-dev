@@ -3,7 +3,7 @@
 
 ## Base URL
 ```
-https://api-ml-228102642507.asia-southeast2.run.app
+"ip":8080
 ```
 
 
